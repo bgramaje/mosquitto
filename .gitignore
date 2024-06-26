@@ -1,2 +1,4 @@
+*.db
+.datamosquitto.db
 .config/passwd
-.datamosquitto
+./config/passwd
